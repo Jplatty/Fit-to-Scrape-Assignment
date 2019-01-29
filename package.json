@@ -1,0 +1,26 @@
+{
+  "name": "fit-to-scrape-assignment",
+  "version": "1.0.0",
+  "description": "Scrape assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jplatty/Fit-to-Scrape-Assignment.git"
+  },
+  "author": "John Plattenburg jr.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jplatty/Fit-to-Scrape-Assignment/issues"
+  },
+  "homepage": "https://github.com/Jplatty/Fit-to-Scrape-Assignment#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.4.7"
+  }
+}
